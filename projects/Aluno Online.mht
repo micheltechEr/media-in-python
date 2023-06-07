@@ -1,0 +1,519 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: https://www3.uea.edu.br/lyceump/aonline/horario.asp
+Subject: Aluno Online
+Date: Fri, 26 May 2023 14:00:14 -0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--7gZWn4RNJMuUkKk5VKENPvdyWxkPr7NAC8QC5y4hBQ----"
+
+
+------MultipartBoundary--7gZWn4RNJMuUkKk5VKENPvdyWxkPr7NAC8QC5y4hBQ----
+Content-Type: text/html
+Content-ID: <frame-ECDD47497A2DF53C7AD5EB8C65258C67@mhtml.blink>
+Content-Transfer-Encoding: binary
+Content-Location: https://www3.uea.edu.br/lyceump/aonline/horario.asp
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="pt-br" lang="pt-br"><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252"><link rel="stylesheet" type="text/css" href="cid:css-d7f3805e-43ba-4ad0-b200-247b325e8576@mhtml.blink" /><link rel="stylesheet" type="text/css" href="cid:css-5c1bc21e-0636-4cab-aabb-9199e5b5983b@mhtml.blink" />
+
+<title>Aluno Online</title>
+<link rel="stylesheet" type="text/css" href="https://www3.uea.edu.br/lyceump/aonline/aonline.css">
+
+
+
+
+
+
+
+
+
+
+
+</head>
+
+
+	<body bgcolor="#FFFFFF">
+
+<div style="margin: auto;">
+
+
+
+<div align="center">
+    <div align="right" class="font01" style="width:750px">sexta-feira, 26 de maio de 2023
+</div>
+	<div align="Left" style="width:750px">
+		
+			<img src="https://www3.uea.edu.br/lyceump/aonline/images/logo_tecuni.gif">
+		
+
+
+	</div>	
+		 <!-- Retirando ajuda do Aluno Online-->
+		  <!--<div align="right" style="width:750px">
+			
+			<a onclick="javascript:ChamaHelp('');" >
+			<img align=center src="images/interroga.gif" width="20" height="20" alt="Ajuda" style="cursor:pointer">
+			</a>
+		  </div>
+		  -->
+</div>
+
+</div>   
+
+
+	<div style="position: relative;z-index: 999999" id="panMainMenu">
+		<!-- inicio menu drop down -->
+
+
+
+
+<!--[if lt IE 7]>
+<noscript>
+<style type="text/css" media="screen">
+@import "CSSMENU/CSSMENUkeyboardDropDownJSoff.css";
+</style>
+</noscript>
+<!--[if IE 5.5000]> <style type="text/css" media="screen"> @import "CSSMENU/ie5-5.css"; </style> <![endif]-->
+<!--[if IE 5]> <style type="text/css" media="screen"> @import "CSSMENU/ie5.css"; </style> <![endif]-->
+<link rel="stylesheet" type="text/css" href="https://www3.uea.edu.br/lyceump/aonline/CSSMENU/CSSMENU_STRUCTURE.css">
+<link rel="stylesheet" type="text/css" href="https://www3.uea.edu.br/lyceump/aonline/CSSMENU/GRAY_CSSMENU.css">
+
+
+<div id="CSSMENUPOSITION" align="center">
+<div id="CSSMENUCONTAINER" style="width:750px;">
+<div id="CSSMENUCONTAINERLEFT">
+<img src="https://www3.uea.edu.br/lyceump/aonline/CSSMENU/images/gray_left_cap.gif">
+</div>
+<ul id="CSSMENU">
+	<li id="M1" class="trigger"><a href="https://www3.uea.edu.br/lyceump/aonline/main.asp" style="cursor:pointer;cursor:hand;">Principal</a></li>
+	<li id="M2" class="trigger"><a href="https://www3.uea.edu.br/lyceump/aonline/horario.asp#">Acadêmico</a>
+		<ul>
+			<li><a href="https://www3.uea.edu.br/lyceump/aonline/horario.asp" id="M2L1">Horário de Aulas</a></li>
+			<li><a href="https://www3.uea.edu.br/lyceump/aonline/calendario_aulas.asp" id="M2L2">Calendário</a></li>     
+			<li><a href="https://www3.uea.edu.br/lyceump/aonline/calendario.asp" id="M2L3">Calendário de Provas</a></li>     
+			<li><a href="https://www3.uea.edu.br/lyceump/aonline/falta.asp" id="M2L4">Calendário de Faltas</a></li>
+			<li><a href="https://www3.uea.edu.br/lyceump/aonline/notas_freq.asp" id="M2L5">Notas e Frequência</a></li>
+			<li><a href="https://www3.uea.edu.br/lyceump/aonline/indice_rend.asp" id="M2L6"> Índice de Rendimento</a></li>
+			<li><a href="https://www3.uea.edu.br/lyceump/aonline/selecionadisciplinadiario.asp" id="M2L7">Diário de Classe</a></li> 
+			<li><a href="https://www3.uea.edu.br/lyceump/aonline/selecionaDisciplinaPublic.asp" id="M2L8">Publicações</a></li>
+			<li><a href="https://www3.uea.edu.br/lyceump/aonline/meusdocentes.asp" id="M2L9">Disciplinas Matriculadas</a></li>   
+			<li><a href="https://www3.uea.edu.br/lyceump/aonline/historico.asp" id="M2L10">Histórico Acadêmico</a></li>
+			<li><a href="https://www3.uea.edu.br/lyceump/aonline/disciplinas_pendentes.asp" id="M2L11">Disciplinas a Cursar</a></li> 
+			<li><a href="https://www3.uea.edu.br/lyceump/aonline/dados_do_aluno.asp" id="M2L12">Dados Cadastrais</a></li>
+			<li><a href="https://www3.uea.edu.br/lyceump/aonline/dados_vestibular.asp" id="M2L13">Dados Processo Seletivo</a></li>
+			<li><a href="https://www3.uea.edu.br/lyceump/aonline/avisos.asp" id="M2L14">Avisos</a></li> 
+			<li><a href="https://www3.uea.edu.br/lyceump/aonline/alterar_senha.asp" id="M2L15">  Alterar Senha</a></li> 
+			<li><a href="https://www3.uea.edu.br/lyceump/aonline/PosGraduacao.asp" id="M2L16">Pós Graduação</a></li>  
+			<li><a href="https://www3.uea.edu.br/lyceump/aonline/notas_freq_boletim.asp" id="M2L17">Boletim</a></li>   
+			<li><a href="https://www3.uea.edu.br/lyceump/aonline/aolocorrencias.asp" id="M2L18">Ocorrências</a></li>
+			<li><a href="https://www3.uea.edu.br/lyceump/aonline/QuestionariosDetalhes.asp" id="M2L19">Questionários</a></li>
+		</ul>
+	</li>
+	<li id="M3" class="trigger"><a href="https://www3.uea.edu.br/lyceump/aonline/horario.asp#">Financeiro</a>
+  		<ul>
+            <li><a href="https://www3.uea.edu.br/lyceump/aonline/selecao_boleto.asp" id="M3L1"> Impressão de Boleto</a></li>
+            <li><a href="https://www3.uea.edu.br/lyceump/aonline/extrato_financeiro.asp" id="M3L2">Extrato Financeiro</a></li>
+            <li><a href="https://www3.uea.edu.br/lyceump/aonline/itens_cobranca.asp" id="M3L3">Itens em Cobrança</a></li> 
+      		<li><a href="https://www3.uea.edu.br/lyceump/aonline/acordo_cobrancas.asp" id="M3L4">Acordo</a></li>    
+            <li><a href="https://www3.uea.edu.br/lyceump/aonline/acordo_consulta.asp" id="M3L5">Acordo Consulta</a></li>
+            <li><a href="https://www3.uea.edu.br/lyceump/aonline/ver_contrato.asp" id="M3L6">Visualizar Contrato</a></li> 
+            <li><a href="https://www3.uea.edu.br/lyceump/aonline/gera_arrasto.asp" id="M3L7">Ajustar boleto com atraso</a></li> 
+		</ul>
+	</li>
+	<li id="M4" class="trigger"><a href="https://www3.uea.edu.br/lyceump/aonline/horario.asp#">Serviços</a>
+  		<ul>
+	  		<li><a href="https://www3.uea.edu.br/lyceump/aonline/tabela_servicos.asp" id="M4L1">Solicitação de Serviços</a></li>
+         	<li><a href="https://www3.uea.edu.br/lyceump/aonline/servicos_solicit.asp" id="M4L2">Serviços Solicitados</a></li>       
+          	<li><a href="https://www3.uea.edu.br/lyceump/aonline/servicos_cancelados.asp" id="M4L3">Cancelamento de Serviços</a></li>
+          	<li><a href="https://www3.uea.edu.br/lyceump/aonline/pendencias_matricula.asp" id="M4L4">Pendências para Matrícula</a></li>
+		</ul>
+	</li>
+	<li id="M5" class="trigger"><a href="https://www3.uea.edu.br/lyceump/aonline/horario.asp#">Institucional</a>
+  		<ul>
+   	  		<li><a href="https://www3.uea.edu.br/lyceump/aonline/faculdades.asp" id="M5L1">Unidades</a></li>  
+            <li><a href="https://www3.uea.edu.br/lyceump/aonline/cursos.asp" id="M5L2">Cursos e Currículos</a></li>
+            <li><a href="https://www3.uea.edu.br/lyceump/aonline/docentes.asp" id="M5L3">Docentes</a></li>  
+		</ul>
+	</li>
+	<li id="M6" class="trigger"><a href="https://www3.uea.edu.br/lyceump/aonline/matricula.asp" style="cursor:pointer;cursor:hand;">Matrícula</a></li>
+	<li id="M7" class="trigger"><a href="https://www3.uea.edu.br/lyceump/aonline/logoff.asp" style="cursor:pointer;cursor:hand;">Sair</a></li>
+</ul>
+<div id="CSSMENUCONTAINERRIGHT">
+<img src="https://www3.uea.edu.br/lyceump/aonline/CSSMENU/images/gray_right_cap.gif">
+</div>
+</div>
+</div>
+
+  <!-- fim menu drop down -->
+
+ 
+	</div>
+
+	<div align="center" style="position: relative;z-index: 999998" id="ctnTabPagina">
+		<div id="TabPagina" style="width:750px;">
+			<div id="TabPaginaUser" style="width:50%;">
+				Aluno(a): <strong>
+				ALICIA ALVES FERREIRA</strong>
+			</div>
+			<div id="TabPaginaNome" style="width:48%;">
+				Página: <strong>Horário de Aulas</strong>
+				
+			</div>
+		</div>
+	</div>
+
+<br>
+<br>
+<div style="margin: auto;position: relative;z-index: 999997" id="ctnTabPagina2">
+
+<!--
+	CHECAGEM PARA VALIDAR O ACEITE DE CONTRATO DE MATRICULA APÓS O LOGON.
+-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+<!-- Conteudo -->
+<table width="750" border="0" cellspacing="0" cellpadding="0" align="center">
+<tbody><tr><td>
+
+
+
+
+<table border="0" width="750">
+ <tbody><tr class="tr01t">
+	<td width="14%" align="center" class="font01n">DOMINGO</td>
+    <td width="14%" align="center" class="font01n">SEGUNDA</td>
+    <td width="14%" align="center" class="font01n">TERÇA</td>
+    <td width="14%" align="center" class="font01n">QUARTA</td>
+    <td width="14%" align="center" class="font01n">QUINTA</td>
+    <td width="14%" align="center" class="font01n">SEXTA</td>
+    <td width="14%" align="center" class="font01n">SÁBADO</td>
+  </tr>
+  <tr class="tr01">
+    <td align="center" valign="top" class="font01"><table border="0" cellspacing="1" cellpadding="0" width="100%"><tbody><tr class="tr01"><td align="center" valign="top" class="font01">&nbsp;<br>&nbsp;</td></tr><tr class="trb"><td align="center" valign="top" class="font01">&nbsp;<br>&nbsp;</td></tr></tbody></table></td>
+    <td align="center" valign="top" class="font01"><table border="0" cellspacing="1" cellpadding="0" width="100%"><tbody><tr class="trb"><td align="center" valign="top" class="font01" title="Português Instrumental">DIRME001<br>[18:00 - 18:50]</td></tr><tr class="tr01"><td align="center" valign="top" class="font01" title="Sociologia do Direito">DIRME0105<br>[18:00 - 18:50]</td></tr><tr class="trb"><td align="center" valign="top" class="font01" title="Português Instrumental">DIRME001<br>[18:50 - 19:40]</td></tr><tr class="tr01"><td align="center" valign="top" class="font01" title="Sociologia do Direito">DIRME0105<br>[18:50 - 19:40]</td></tr><tr class="trb"><td align="center" valign="top" class="font01">&nbsp;<br>&nbsp;</td></tr></tbody></table></td>
+    <td align="center" valign="top" class="font01"><table border="0" cellspacing="1" cellpadding="0" width="100%"><tbody><tr class="tr01"><td align="center" valign="top" class="font01" title="Introdução ao Estudo do Direito I">DIRME0101<br>[18:00 - 18:50]</td></tr><tr class="trb"><td align="center" valign="top" class="font01" title="Metodologia Científica">DIRME0106<br>[18:00 - 18:50]</td></tr><tr class="tr01"><td align="center" valign="top" class="font01" title="Introdução ao Estudo do Direito I">DIRME0101<br>[18:50 - 19:40]</td></tr><tr class="trb"><td align="center" valign="top" class="font01" title="Metodologia Científica">DIRME0106<br>[18:50 - 19:40]</td></tr><tr class="tr01"><td align="center" valign="top" class="font01" title="Introdução ao Estudo do Direito I">DIRME0101<br>[20:00 - 20:50]</td></tr><tr class="trb"><td align="center" valign="top" class="font01" title="Introdução ao Estudo do Direito I">DIRME0101<br>[20:50 - 21:40]</td></tr></tbody></table></td>
+    <td align="center" valign="top" class="font01"><table border="0" cellspacing="1" cellpadding="0" width="100%"><tbody><tr class="trb"><td align="center" valign="top" class="font01" title="Filosofia e Pensamento Jurídico">DIRME0102<br>[18:00 - 18:50]</td></tr><tr class="tr01"><td align="center" valign="top" class="font01" title="Teoria da Constituição">DIRME0107<br>[18:00 - 18:50]</td></tr><tr class="trb"><td align="center" valign="top" class="font01" title="Filosofia e Pensamento Jurídico">DIRME0102<br>[18:50 - 19:40]</td></tr><tr class="tr01"><td align="center" valign="top" class="font01" title="Teoria da Constituição">DIRME0107<br>[18:50 - 19:40]</td></tr><tr class="trb"><td align="center" valign="top" class="font01" title="Filosofia e Pensamento Jurídico">DIRME0102<br>[20:00 - 20:50]</td></tr><tr class="tr01"><td align="center" valign="top" class="font01" title="Filosofia e Pensamento Jurídico">DIRME0102<br>[20:50 - 21:40]</td></tr></tbody></table></td>
+    <td align="center" valign="top" class="font01"><table border="0" cellspacing="1" cellpadding="0" width="100%"><tbody><tr class="tr01"><td align="center" valign="top" class="font01" title="Antropologia Jurídica">DIRME0108<br>[18:00 - 18:50]</td></tr><tr class="trb"><td align="center" valign="top" class="font01" title="Introdução à Economia e Desenvolvimento Regional">DIRME0103<br>[18:00 - 18:50]</td></tr><tr class="tr01"><td align="center" valign="top" class="font01" title="Introdução à Economia e Desenvolvimento Regional">DIRME0103<br>[18:50 - 19:40]</td></tr><tr class="trb"><td align="center" valign="top" class="font01" title="Antropologia Jurídica">DIRME0108<br>[18:50 - 19:40]</td></tr><tr class="tr01"><td align="center" valign="top" class="font01">&nbsp;<br>&nbsp;</td></tr></tbody></table></td>
+    <td align="center" valign="top" class="font01"><table border="0" cellspacing="1" cellpadding="0" width="100%"><tbody><tr class="trb"><td align="center" valign="top" class="font01" title="Teoria Geral do Estado">DIRME0104<br>[18:00 - 18:50]</td></tr><tr class="tr01"><td align="center" valign="top" class="font01" title="Teoria Geral do Estado">DIRME0104<br>[18:50 - 19:40]</td></tr><tr class="trb"><td align="center" valign="top" class="font01" title="Teoria Geral do Estado">DIRME0104<br>[20:00 - 20:50]</td></tr><tr class="tr01"><td align="center" valign="top" class="font01" title="Teoria Geral do Estado">DIRME0104<br>[20:50 - 21:40]</td></tr></tbody></table></td>
+    <td align="center" valign="top" class="font01"><table border="0" cellspacing="1" cellpadding="0" width="100%"><tbody><tr class="tr01"><td align="center" valign="top" class="font01">&nbsp;<br>&nbsp;</td></tr><tr class="trb"><td align="center" valign="top" class="font01">&nbsp;<br>&nbsp;</td></tr></tbody></table></td>
+  </tr>
+  </tbody></table>
+  <br><br>
+<table border="0" width="750">
+  <tbody><tr class="tr01t">
+    
+		<td width="30%" align="center" class="font01n">Disciplina</td>
+    
+    <td width="10%" align="center" class="font01n">Turma</td>
+    <td width="20%" align="center" class="font01n">Local</td>
+    
+        <td width="15%" align="center" class="font01n">Horário</td>
+    
+    <td width="25%" align="center" class="font01n">Docente</td>
+  </tr>
+
+<tr class="tr01"><td colspan="8" class="font01n">SEGUNDA</td></tr><tr class="tr01"><td class="font01">Português Instrumental - Português Instrumental</td><td class="font01" title="De  a ">EIRN_T01<br><br> a </td><td class="font01">Nucleo de Ensino Superior de Eirunepé<br>Sala 1-Sala de Aula de Eirunepé</td><td class="font01" align="center">18:00 - 18:50<br>Semanal</td><td class="font01">Jeiviane Dos Santos Justiniano</td></tr><tr class="tr01a"><td class="font01">Português Instrumental - Português Instrumental</td><td class="font01" title="De 12/06/2023 a 16/06/2023">EIRN_T01<br><br>12/06/2023 a 16/06/2023</td><td class="font01">Nucleo de Ensino Superior de Eirunepé<br>Sala 1-Sala de Aula de Eirunepé</td><td class="font01" align="center">18:50 - 19:40<br>Semanal</td><td class="font01">Jeiviane Dos Santos Justiniano</td></tr><tr class="tr01"><td colspan="8" class="font01n">TERÇA</td></tr><tr class="tr01"><td class="font01">Introdução ao Estudo do Direito I - Introdução ao Estudo do Direito I</td><td class="font01" title="De  a ">EIRN_T01<br><br> a </td><td class="font01">Nucleo de Ensino Superior de Eirunepé<br>Sala 1-Sala de Aula de Eirunepé</td><td class="font01" align="center">18:00 - 18:50<br>Semanal</td><td class="font01">Márcia Cristina Nery da Fonseca Rocha Medina</td></tr><tr class="tr01a"><td class="font01">Introdução ao Estudo do Direito I - Introdução ao Estudo do Direito I</td><td class="font01" title="De 19/06/2023 a 07/07/2023">EIRN_T01<br><br>19/06/2023 a 07/07/2023</td><td class="font01">Nucleo de Ensino Superior de Eirunepé<br>Sala 1-Sala de Aula de Eirunepé</td><td class="font01" align="center">18:50 - 19:40<br>Semanal</td><td class="font01">Márcia Cristina Nery da Fonseca Rocha Medina</td></tr><tr class="tr01"><td class="font01">Introdução ao Estudo do Direito I - Introdução ao Estudo do Direito I</td><td class="font01" title="De  a ">EIRN_T01<br><br> a </td><td class="font01">Nucleo de Ensino Superior de Eirunepé<br>Sala 1-Sala de Aula de Eirunepé</td><td class="font01" align="center">20:00 - 20:50<br>Semanal</td><td class="font01">Márcia Cristina Nery da Fonseca Rocha Medina</td></tr><tr class="tr01a"><td class="font01">Introdução ao Estudo do Direito I - Introdução ao Estudo do Direito I</td><td class="font01" title="De 19/06/2023 a 07/07/2023">EIRN_T01<br><br>19/06/2023 a 07/07/2023</td><td class="font01">Nucleo de Ensino Superior de Eirunepé<br>Sala 1-Sala de Aula de Eirunepé</td><td class="font01" align="center">20:50 - 21:40<br>Semanal</td><td class="font01">Márcia Cristina Nery da Fonseca Rocha Medina</td></tr><tr class="tr01"><td colspan="8" class="font01n">QUARTA</td></tr><tr class="tr01"><td class="font01">Filosofia e Pensamento Jurídico - Filosofia e Pensamento Jurídico</td><td class="font01" title="De 10/07/2023 a 26/07/2023">EIRN_T01<br><br>10/07/2023 a 26/07/2023</td><td class="font01">Nucleo de Ensino Superior de Eirunepé<br>Sala 1-Sala de Aula de Eirunepé</td><td class="font01" align="center">18:00 - 18:50<br>Semanal</td><td class="font01">Brychtn Ribeiro de Vasconcelos</td></tr><tr class="tr01a"><td class="font01">Filosofia e Pensamento Jurídico - Filosofia e Pensamento Jurídico</td><td class="font01" title="De 10/07/2023 a 26/07/2023">EIRN_T01<br><br>10/07/2023 a 26/07/2023</td><td class="font01">Nucleo de Ensino Superior de Eirunepé<br>Sala 1-Sala de Aula de Eirunepé</td><td class="font01" align="center">18:50 - 19:40<br>Semanal</td><td class="font01">Brychtn Ribeiro de Vasconcelos</td></tr><tr class="tr01"><td class="font01">Filosofia e Pensamento Jurídico - Filosofia e Pensamento Jurídico</td><td class="font01" title="De 10/07/2023 a 26/07/2023">EIRN_T01<br><br>10/07/2023 a 26/07/2023</td><td class="font01">Nucleo de Ensino Superior de Eirunepé<br>Sala 1-Sala de Aula de Eirunepé</td><td class="font01" align="center">20:00 - 20:50<br>Semanal</td><td class="font01">Brychtn Ribeiro de Vasconcelos</td></tr><tr class="tr01a"><td class="font01">Filosofia e Pensamento Jurídico - Filosofia e Pensamento Jurídico</td><td class="font01" title="De 10/07/2023 a 26/07/2023">EIRN_T01<br><br>10/07/2023 a 26/07/2023</td><td class="font01">Nucleo de Ensino Superior de Eirunepé<br>Sala 1-Sala de Aula de Eirunepé</td><td class="font01" align="center">20:50 - 21:40<br>Semanal</td><td class="font01">Brychtn Ribeiro de Vasconcelos</td></tr><tr class="tr01"><td colspan="8" class="font01n">TERÇA</td></tr><tr class="tr01"><td class="font01">Metodologia Científica - Metodologia Científica</td><td class="font01" title="De 27/07/2023 a 04/08/2023">EIRN_T01<br><br>27/07/2023 a 04/08/2023</td><td class="font01">Nucleo de Ensino Superior de Eirunepé<br>Sala 1-Sala de Aula de Eirunepé</td><td class="font01" align="center">18:00 - 18:50<br>Semanal</td><td class="font01">HELEN RITA MENEZES COUTINHO</td></tr><tr class="tr01a"><td class="font01">Metodologia Científica - Metodologia Científica</td><td class="font01" title="De  a ">EIRN_T01<br><br> a </td><td class="font01">Nucleo de Ensino Superior de Eirunepé<br>Sala 1-Sala de Aula de Eirunepé</td><td class="font01" align="center">18:50 - 19:40<br>Semanal</td><td class="font01">HELEN RITA MENEZES COUTINHO</td></tr><tr class="tr01"><td colspan="8" class="font01n">QUINTA</td></tr><tr class="tr01"><td class="font01">Introdução à Economia e Desenvolvimento Regional - Introdução à Economia e Desenvolvimento Regional</td><td class="font01" title="De 07/08/2023 a 15/08/2023">EIRN_T01<br><br>07/08/2023 a 15/08/2023</td><td class="font01">Nucleo de Ensino Superior de Eirunepé<br>Sala 1-Sala de Aula de Eirunepé</td><td class="font01" align="center">18:00 - 18:50<br>Semanal</td><td class="font01">Cleisa Elena Cabral Bessa</td></tr><tr class="tr01a"><td class="font01">Introdução à Economia e Desenvolvimento Regional - Introdução à Economia e Desenvolvimento Regional</td><td class="font01" title="De  a ">EIRN_T01<br><br> a </td><td class="font01">Nucleo de Ensino Superior de Eirunepé<br>Sala 1-Sala de Aula de Eirunepé</td><td class="font01" align="center">18:50 - 19:40<br>Semanal</td><td class="font01">Cleisa Elena Cabral Bessa</td></tr><tr class="tr01"><td colspan="8" class="font01n">SEXTA</td></tr><tr class="tr01"><td class="font01">Teoria Geral do Estado - Teoria Geral do Estado</td><td class="font01" title="De  a ">EIRN_T01<br><br> a </td><td class="font01">Nucleo de Ensino Superior de Eirunepé<br>Sala 1-Sala de Aula de Eirunepé</td><td class="font01" align="center">18:00 - 18:50<br>Semanal</td><td class="font01">Bianor Saraiva Nogueira Júnior</td></tr><tr class="tr01a"><td class="font01">Teoria Geral do Estado - Teoria Geral do Estado</td><td class="font01" title="De 16/08/2023 a 01/09/2023">EIRN_T01<br><br>16/08/2023 a 01/09/2023</td><td class="font01">Nucleo de Ensino Superior de Eirunepé<br>Sala 1-Sala de Aula de Eirunepé</td><td class="font01" align="center">18:50 - 19:40<br>Semanal</td><td class="font01">Bianor Saraiva Nogueira Júnior</td></tr><tr class="tr01"><td class="font01">Teoria Geral do Estado - Teoria Geral do Estado</td><td class="font01" title="De  a ">EIRN_T01<br><br> a </td><td class="font01">Nucleo de Ensino Superior de Eirunepé<br>Sala 1-Sala de Aula de Eirunepé</td><td class="font01" align="center">20:00 - 20:50<br>Semanal</td><td class="font01">Bianor Saraiva Nogueira Júnior</td></tr><tr class="tr01a"><td class="font01">Teoria Geral do Estado - Teoria Geral do Estado</td><td class="font01" title="De 16/08/2023 a 01/09/2023">EIRN_T01<br><br>16/08/2023 a 01/09/2023</td><td class="font01">Nucleo de Ensino Superior de Eirunepé<br>Sala 1-Sala de Aula de Eirunepé</td><td class="font01" align="center">20:50 - 21:40<br>Semanal</td><td class="font01">Bianor Saraiva Nogueira Júnior</td></tr><tr class="tr01"><td colspan="8" class="font01n">SEGUNDA</td></tr><tr class="tr01"><td class="font01">Sociologia do Direito - Sociologia do Direito</td><td class="font01" title="De 11/09/2023 a 19/09/2023">EIRN_T01<br><br>11/09/2023 a 19/09/2023</td><td class="font01">Nucleo de Ensino Superior de Eirunepé<br>Sala 1-Sala de Aula de Eirunepé</td><td class="font01" align="center">18:00 - 18:50<br>Semanal</td><td class="font01">Ricardo Tavares de Albuquerque</td></tr><tr class="tr01a"><td class="font01">Sociologia do Direito - Sociologia do Direito</td><td class="font01" title="De  a ">EIRN_T01<br><br> a </td><td class="font01">Nucleo de Ensino Superior de Eirunepé<br>Sala 1-Sala de Aula de Eirunepé</td><td class="font01" align="center">18:50 - 19:40<br>Semanal</td><td class="font01">Ricardo Tavares de Albuquerque</td></tr><tr class="tr01"><td colspan="8" class="font01n">QUINTA</td></tr><tr class="tr01"><td class="font01">Antropologia Jurídica - Antropologia Jurídica</td><td class="font01" title="De  a ">EIRN_T01<br><br> a </td><td class="font01">Nucleo de Ensino Superior de Eirunepé<br>Sala 1-Sala de Aula de Eirunepé</td><td class="font01" align="center">18:00 - 18:50<br>Semanal</td><td class="font01">Brychtn Ribeiro de Vasconcelos</td></tr><tr class="tr01a"><td class="font01">Antropologia Jurídica - Antropologia Jurídica</td><td class="font01" title="De 20/09/2023 a 28/09/2023">EIRN_T01<br><br>20/09/2023 a 28/09/2023</td><td class="font01">Nucleo de Ensino Superior de Eirunepé<br>Sala 1-Sala de Aula de Eirunepé</td><td class="font01" align="center">18:50 - 19:40<br>Semanal</td><td class="font01">Brychtn Ribeiro de Vasconcelos</td></tr><tr class="tr01"><td colspan="8" class="font01n">QUARTA</td></tr><tr class="tr01"><td class="font01">Teoria da Constituição - Teoria da Constituição</td><td class="font01" title="De  a ">EIRN_T01<br><br> a </td><td class="font01">Nucleo de Ensino Superior de Eirunepé<br>Sala 1-Sala de Aula de Eirunepé</td><td class="font01" align="center">18:00 - 18:50<br>Semanal</td><td class="font01">Bianor Saraiva Nogueira Júnior</td></tr><tr class="tr01a"><td class="font01">Teoria da Constituição - Teoria da Constituição</td><td class="font01" title="De 02/10/2023 a 10/10/2023">EIRN_T01<br><br>02/10/2023 a 10/10/2023</td><td class="font01">Nucleo de Ensino Superior de Eirunepé<br>Sala 1-Sala de Aula de Eirunepé</td><td class="font01" align="center">18:50 - 19:40<br>Semanal</td><td class="font01">Bianor Saraiva Nogueira Júnior</td></tr>
+
+</tbody></table>
+<br>
+<br>
+<br>
+</td></tr>
+</tbody></table> 
+</div>
+
+
+
+
+</body></html>
+------MultipartBoundary--7gZWn4RNJMuUkKk5VKENPvdyWxkPr7NAC8QC5y4hBQ----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: cid:css-d7f3805e-43ba-4ad0-b200-247b325e8576@mhtml.blink
+
+@charset "windows-1252";
+
+@import url("CSSMENU/CSSMENUModernBrowsersWithScriptSupport.css");
+------MultipartBoundary--7gZWn4RNJMuUkKk5VKENPvdyWxkPr7NAC8QC5y4hBQ----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: https://www3.uea.edu.br/lyceump/aonline/CSSMENU/CSSMENUModernBrowsersWithScriptSupport.css
+
+@charset "windows-1252";
+
+.M1 #CSSMENU li#M1 ul li a:focus, .M1 #CSSMENU li#M1 ul li a:active, .M2 #CSSMENU li#M2 ul li a:focus, .M2 #CSSMENU li#M2 ul li a:active, .M3 #CSSMENU li#M3 ul li a:focus, .M3 #CSSMENU li#M3 ul li a:active, .M4 #CSSMENU li#M4 ul li a:focus, .M4 #CSSMENU li#M4 ul li a:active, .M5 #CSSMENU li#M5 ul li a:focus, .M5 #CSSMENU li#M5 ul li a:active, .M6 #CSSMENU li#M6 ul li a:focus, .M6 #CSSMENU li#M6 ul li a:active, .M7 #CSSMENU li#M6 ul li a:focus, .M7 #CSSMENU li#M6 ul li a:active { position: relative !important; top: 0px !important; }
+------MultipartBoundary--7gZWn4RNJMuUkKk5VKENPvdyWxkPr7NAC8QC5y4hBQ----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: cid:css-5c1bc21e-0636-4cab-aabb-9199e5b5983b@mhtml.blink
+
+@charset "windows-1252";
+
+body { margin: 0px; }
+
+#modalPage { display: block; position: fixed; width: 100%; height: 100%; top: 0px; left: 0px; z-index: 2147483641; }
+
+.modalBackground { opacity: 0.4; width: 100%; height: 100%; background-color: rgb(153, 153, 153); position: absolute; z-index: 2147483642; top: 0px; left: 0px; }
+
+.modalContainer { position: absolute; width: 100%; height: 100%; left: 0px; top: 0px; z-index: 2147483643; }
+
+.modalContrato { background-color: white; border: 3px solid black; position: relative; top: 0px; left: 0px; z-index: 2147483646; width: 750px; height: 560px; padding: 0px; }
+
+.lblContrato { position: absolute; text-align: left; z-index: 2147483645; top: 0px; left: 0px; padding: 4px; color: rgb(255, 255, 255); font-family: sans-serif, arial; }
+
+.modalTop { width: 742px; background-color: rgb(0, 0, 153); padding: 4px; color: rgb(255, 255, 255); text-align: right; z-index: 2147483644; font-family: sans-serif, arial; }
+
+.modalTop a, .modalTop a:visited { color: rgb(255, 255, 255); }
+
+.modalBody { position: absolute; width: 720px; height: 460px; padding: 10px; overflow-y: scroll; }
+------MultipartBoundary--7gZWn4RNJMuUkKk5VKENPvdyWxkPr7NAC8QC5y4hBQ----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: https://www3.uea.edu.br/lyceump/aonline/aonline.css
+
+@charset "windows-1252";
+
+a:link { border-width: medium; border-style: none; border-color: initial; text-decoration: underline; }
+
+a:active { text-decoration: underline; }
+
+a:visited { text-decoration: underline; }
+
+a:hover { border-width: medium; border-style: none; border-color: initial; text-decoration: underline; }
+
+.textolink { font-weight: bold; font-size: 12px; color: rgb(70, 99, 129); font-family: Verdana, Arial, Helvetica, sans-serif; }
+
+.tabm { background-position: center top; font-weight: normal; font-size: 10px; background-image: url("/images/img_papel.gif"); color: rgb(0, 0, 0); background-repeat: repeat-y; font-family: Verdana, Arial, Helvetica, sans-serif; }
+
+.font01a { font-weight: normal; font-size: 10px; color: rgb(0, 0, 139); font-family: Verdana, Arial; background-color: rgb(192, 192, 192); }
+
+.font00 { font-weight: normal; font-size: 10px; color: black; font-family: Arial, "MS Sans Serif"; }
+
+.table01 { color: rgb(255, 205, 0); }
+
+.font01n { font-weight: bold; font-size: 10px; color: rgb(0, 0, 255); font-family: Verdana, Arial; }
+
+.font01n_arrasto_boleto { font-weight: bold; font-size: 10px; color: rgb(0, 0, 255); background-color: rgb(199, 214, 254); font-family: Verdana, Arial; }
+
+.tr01 { color: rgb(255, 205, 0); background-color: rgb(255, 255, 255); }
+
+.font01 { font-size: 10px; color: rgb(0, 0, 139); font-family: Verdana, Arial; }
+
+.fontmenu { font-weight: bold; font-size: 10px; color: rgb(0, 0, 139); font-family: Verdana, Arial; }
+
+.tr01a { color: rgb(255, 205, 0); background-color: rgb(199, 214, 254); }
+
+.tr01t { color: rgb(0, 0, 255); background-color: rgb(255, 204, 0); }
+
+.font02 { font-weight: bold; font-size: 10px; color: rgb(0, 0, 139); font-family: Verdana; }
+
+.font02_boletim { font-weight: normal; font-size: 10px; color: rgb(0, 0, 139); font-family: Verdana; }
+
+.font00n { font-weight: normal; font-size: 9px; color: gray; font-family: Verdana; }
+
+.font01r { font-weight: normal; font-size: 10px; color: rgb(255, 0, 0); font-family: Verdana; }
+
+.font01f { font-weight: normal; font-size: 12px; color: rgb(0, 0, 139); font-family: "Courier New"; }
+
+.font02a { font-weight: normal; font-size: 12px; color: rgb(0, 0, 139); font-family: Verdana; background-color: rgb(220, 220, 220); }
+
+.font02n { font-weight: bold; font-size: 12px; color: rgb(0, 0, 139); font-family: Verdana; }
+
+.tabtd01 { background-color: navy; }
+
+.tabfont01 { font-weight: bold; font-size: 12px; color: rgb(245, 245, 245); font-family: Verdana; }
+
+.tabfont02 { font-weight: bold; font-size: 12px; color: white; font-family: Verdana; }
+
+.tabtd02 { background-color: sienna; }
+
+.tabtd03 { background-color: darkcyan; }
+
+.tabtable01 { background-color: white; }
+
+.f10p_branco { font-weight: normal; font-size: 10px; color: rgb(255, 255, 255); font-family: Verdana, Arial; }
+
+.tr01navy { font-family: Verdana; background-color: navy; color: white; }
+
+.trb { color: rgb(255, 251, 204); background-color: rgb(255, 251, 204); }
+
+.ferias { background-color: rgb(222, 231, 254); font-size: 10px; color: rgb(0, 0, 139); font-family: Verdana, Arial; }
+
+.TabCalendar { border: 1px solid rgb(192, 192, 192); padding: 1px; }
+
+.provas { background-color: rgb(255, 255, 153); font-size: 10px; color: rgb(0, 0, 139); font-family: Verdana, Arial; }
+
+.hr { }
+
+.divs_pos_graduacao { font-size: 9px; color: rgb(0, 0, 139); font-family: Verdana, Arial; }
+
+.divs_pos_graduacao_t { font-weight: bold; font-size: 9px; background-color: rgb(199, 214, 254); }
+
+.divs_pos_graduacao_t_principal { font-weight: bold; font-size: 9px; font-family: Verdana, Arial; color: rgb(0, 0, 139); background-color: rgb(255, 204, 0); }
+
+.divs_menu_com_foco { font-weight: bold; font-size: 9px; font-family: Verdana, Arial; color: rgb(0, 0, 139); background-color: rgb(255, 204, 0); }
+
+#hrfooter { color: blue; height: 1px; }
+------MultipartBoundary--7gZWn4RNJMuUkKk5VKENPvdyWxkPr7NAC8QC5y4hBQ----
+Content-Type: image/gif
+Content-Transfer-Encoding: binary
+Content-Location: https://www3.uea.edu.br/lyceump/aonline/images/logo_tecuni.gif
+
+GIF89a’ J ÷       3  f  ™  Ì  ÿ +  +3 +f +™ +Ì +ÿ U  U3 Uf U™ UÌ Uÿ €  €3 €f €™ €Ì €ÿ ª  ª3 ªf ª™ ªÌ ªÿ Õ  Õ3 Õf Õ™ ÕÌ Õÿ ÿ  ÿ3 ÿf ÿ™ ÿÌ ÿÿ3  3 33 f3 ™3 Ì3 ÿ3+ 3+33+f3+™3+Ì3+ÿ3U 3U33Uf3U™3UÌ3Uÿ3€ 3€33€f3€™3€Ì3€ÿ3ª 3ª33ªf3ª™3ªÌ3ªÿ3Õ 3Õ33Õf3Õ™3ÕÌ3Õÿ3ÿ 3ÿ33ÿf3ÿ™3ÿÌ3ÿÿf  f 3f ff ™f Ìf ÿf+ f+3f+ff+™f+Ìf+ÿfU fU3fUffU™fUÌfUÿf€ f€3f€ff€™f€Ìf€ÿfª fª3fªffª™fªÌfªÿfÕ fÕ3fÕffÕ™fÕÌfÕÿfÿ fÿ3fÿffÿ™fÿÌfÿÿ™  ™ 3™ f™ ™™ Ì™ ÿ™+ ™+3™+f™+™™+Ì™+ÿ™U ™U3™Uf™U™™UÌ™Uÿ™€ ™€3™€f™€™™€Ì™€ÿ™ª ™ª3™ªf™ª™™ªÌ™ªÿ™Õ ™Õ3™Õf™Õ™™ÕÌ™Õÿ™ÿ ™ÿ3™ÿf™ÿ™™ÿÌ™ÿÿÌ  Ì 3Ì fÌ ™Ì ÌÌ ÿÌ+ Ì+3Ì+fÌ+™Ì+ÌÌ+ÿÌU ÌU3ÌUfÌU™ÌUÌÌUÿÌ€ Ì€3Ì€fÌ€™Ì€ÌÌ€ÿÌª Ìª3ÌªfÌª™ÌªÌÌªÿÌÕ ÌÕ3ÌÕfÌÕ™ÌÕÌÌÕÿÌÿ Ìÿ3ÌÿfÌÿ™ÌÿÌÌÿÿÿ  ÿ 3ÿ fÿ ™ÿ Ìÿ ÿÿ+ ÿ+3ÿ+fÿ+™ÿ+Ìÿ+ÿÿU ÿU3ÿUfÿU™ÿUÌÿUÿÿ€ ÿ€3ÿ€fÿ€™ÿ€Ìÿ€ÿÿª ÿª3ÿªfÿª™ÿªÌÿªÿÿÕ ÿÕ3ÿÕfÿÕ™ÿÕÌÿÕÿÿÿ ÿÿ3ÿÿfÿÿ™ÿÿÌÿÿÿ            !ù  ü ,    ’ J  ÿ ÷	H° Áƒ*\È°¡Ã‡#JœH±¢Å‹3jÜÈ±£Ç CŠI²¤É“(Sª\É²¥Ë—0cÊœI³¦Í›8sêÜÉ³gJhÊ>	ÚšÏ•ÐˆHÀ°C¦P‡|ÊÈàèIhn fØšaW®K%HµXÕ*É!L¹:•ð4[œª•@‡bÙƒÊ4Ð{Ð^™öù½ÑÀFƒFŒ¦ ±Ä{·t³t+Ü®\ãªíêT.Ó©ï¥·Á„ƒhì%XõÓ°_¿fà¦à½·°„Öv«×Îm=ÿ¶<aÛ¸IB'ÌÛ@‚nƒ~#·vÎ ºõë>
+âVÍ@™ÊOÞjÿ¾ì³Ó¸³¹«o`€A´‡¢’VÝ£¯éî­÷¾QŠ¿Pš5¥9×@}(÷Õy–5—¥E¸^uÞ5Ay½ö\AÑ¶ÏÜ&C„MÐÔ¡”ÕSèçÕRÁ]uÍÝ÷šs·Ív!B;
+4Ÿs¨qÇZjª¶Ð'e
+w#Žd
+[l5èÕVl¹! @Ê¸±×–n¹×.¢j(_"6¤å^‰ IoQé`xuè“Pt9Žé„ï-Ôã>ÌØWˆø­iÚ= ªè‰ýuÚ>=pw¥Hhq–Xu5„˜j\rZ]“<&ôã†­é!ˆ9ºVÚ^of2¦dÌ1ÿðFIÊT]¬AÔƒ^8ÖH‘	ýè£¡ñ×žÒø—^oªwe„'¹‘ÀJdlz^ºÇ°c’:©¡Ù ™¼Q.&æš‹å˜Ùd&~#õ·Ñ¦{Þ÷¦BÎÇÀ½ßê¸™ê†2+ƒª !h]®íú×^Ô&BÌ½¤t¨z¨Ð®°uªa}zDãŒeôF¤‘Ö¶Ï'DŒ*Åž¤ê¿ÜU[PÅ±ÁF¨ÆmÊkÍ]	JSØÜfBÑÔks„Ë|X¨8ãu4¾ÆoFó¥º,Hrýö2BÆ2©P®Þ×.ž'ú€FÚg¨gÐvä—„c2ÐtGŸÀ\…Úùÿ©³„ÔUxp§oÇ@»•}xG2¦š…)•Fÿ¹îvWÇpØ¸éy_¶Pû÷F2ºål¡[¤Ï,v¦rßE“	ÄÖ500A™øÐºûÐûïDô »BnßÃAƒ—õê•zEµJ‰Y~sÁ“¥\5ævßë‚yNQ½Y‰ï½ç<k¤ ‹mOq&™|R¿&Ÿô§É÷‡ý2úˆF ÷a§—l¯+{yœt8B‡ÊôF!ˆ°|à
+¢Á¼ 0¸A7dbƒ|&Ðð7¤Áo(¡
+ÓE?ú}šH†ÿø–<(qJkÈËÎs¶È}9`ÿª£@xmÄR›)`£Éd"*«’¼“	ƒ%ê‰ˆ
+Œ2åY!JeËPÙÚÎðžµõ`VG”Ëéš£-ŽDI<0ŸA„U›hÜ /šØÇ¢e„K%ÛG2fåb<Ê‹‚ÙG&ã*<LWËÈ~s#.y$N`¡Þ#ˆ!4ú€?õñV ÅÇ}L 1ýaÀÚ E;…R Ô«M}´ŸÃÈŠ#+bQÙÄ‘jæ-h„ÝA@Ñ}|òÆ<C÷ú%K„hz°4”Ñ0€Àô+!Ž#yÓŒ[f„7z¦r
+Y[d(ÅÐ#;Ñ(Ëaz€	MÔ&ÉHƒðjÿ&´`R$’¶9+UÞ |‰’\ Ô"È‰’Ù;+RžŠ¦h#(òL[ä8Ç‰V$o•‹õ¢ÄL)JÆ1Ú>FêÑ„Lé2®ÃÈÜ 7k9iûW±”¶&"*KûÜ‡“;*Q=è/xÔˆÒ#¹„ßS8*W­jrq	fG)6«-Ì‘yá@žÃš*¶é‚Å'*võñ9Ÿ¤+
+?¦ä!šÙ_€Ó%n/**hn§ŒSV =øW¦›ýä j« AÁÈzD|Rå!åH‡íR'¥’Vÿj¯n’yN2ò(À,£>JÒã=h7ÿs EPºEPFz`A(tj×-Ü<~ÓaÚš¨d¬k/Ä(ÞXó†d|7([c J Hb/u´Á6ERW9­E“¥ÝÔÆ€¶h††?liE*#NKÅñ ž5„^ê•.Q¾©éx¨Ä”‚pìsû¥)fè21&bh “šTÁŠa<x.ˆYIR¹Ðõ¾LàÏv¢§0¸Ái ßPÖ)cCÑÀ(z ™f¾qlTÈÐ 
+’duogT¦tl6ééŒîzÓ;9S 4Ì›Ü0Œ&-2¬QÔ¢ ù-@JPðÉÒÒ›…VˆÔq”£ÊQ|q’à ÝÐÖ.;žl ¯ˆ&$c?ïçÎÝ2AÐÀã“lï8<|JÚôYN9g|ÂÝ–¨jãÖÏô@Ð…Z¡€bI“{¥ÉZ›µêÃ‘‰´jJ%Ð¸
+[Ô™^›"„˜˜h-3ŸY² (²m=p5†*Ù	D­õÎ(?Dè0—än	O¿ÕžÇ1`¦¨ˆ ,’hxb´ûˆRo©üGIõ£_ºTˆ"´ÛwÆCÔ¸s˜z&1z±uinûûß ¸ÀNð‚üàO¸ÂÎð†;üá8	 ;
+------MultipartBoundary--7gZWn4RNJMuUkKk5VKENPvdyWxkPr7NAC8QC5y4hBQ----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: https://www3.uea.edu.br/lyceump/aonline/CSSMENU/CSSMENU_STRUCTURE.css
+
+@charset "windows-1252";
+
+#CSSMENU, #CSSMENU * { margin: 0px; padding: 0px; }
+
+#CSSMENU { position: relative; width: 95%; max-width: 100%; float: left; background-repeat: no-repeat; }
+
+#CSSMENU li ul { cursor: default; position: absolute; height: auto; display: none; left: -10px; padding: 1px 10px 10px; background: url("images/clear.gif"); width: 11em !important; }
+
+#CSSMENU li { position: relative; width: 9em; max-width: 100%; cursor: pointer; float: left; list-style-type: none; font-weight: bold; }
+
+#CSSMENU li a { display: block; float: left; padding: 0px 0.4em; height: 2em; line-height: 2em; text-indent: 5px; }
+
+#CSSMENU li ul li { width: 12.6em; padding: 0px; max-width: 280%; border-right: 1px solid rgb(255, 255, 255); border-bottom: 1px solid rgb(255, 255, 255); border-left: 1px solid rgb(255, 255, 255); border-image: initial; border-top: none; text-align: left; }
+
+#CSSMENU li ul li a { width: 12.5em; white-space: nowrap; line-height: 1.7em; height: 1.7em; font-weight: normal; position: relative !important; cursor: pointer !important; background-position: 0px 50% !important; }
+------MultipartBoundary--7gZWn4RNJMuUkKk5VKENPvdyWxkPr7NAC8QC5y4hBQ----
+Content-Type: image/gif
+Content-Transfer-Encoding: binary
+Content-Location: https://www3.uea.edu.br/lyceump/aonline/CSSMENU/images/clear.gif
+
+GIF89a  ‘     ÿÿÿÿÿÿ   !ù  ,       T ;
+------MultipartBoundary--7gZWn4RNJMuUkKk5VKENPvdyWxkPr7NAC8QC5y4hBQ----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: https://www3.uea.edu.br/lyceump/aonline/CSSMENU/GRAY_CSSMENU.css
+
+@charset "windows-1252";
+
+#CSSMENU { font-family: Arial, Helvetica, sans-serif; font-size: 0.7em; }
+
+#CSSMENU li { font-weight: bold; }
+
+#CSSMENU li a { cursor: default; color: rgb(102, 102, 102); text-decoration: none; height: 2em; line-height: 2em; text-indent: 5px; }
+
+#CSSMENU li ul li a { line-height: 1.7em; height: 1.7em; font-weight: normal; color: rgb(51, 51, 51); cursor: pointer !important; }
+
+#CSSMENU li a:hover, #CSSMENU li a:focus, #CSSMENU li a:active { color: rgb(0, 0, 0); }
+
+#CSSMENU ul a:hover, #CSSMENU ul a:focus, #CSSMENU ul a:active { background: rgb(127, 127, 127); color: rgb(255, 255, 255) !important; }
+
+#CSSMENU li:hover ul, #CSSMENU li.msieFix ul { display: block; z-index: 10; top: 2em !important; }
+
+#CSSMENU li#M1 { z-index: 9997; }
+
+#CSSMENU li#M2 { z-index: 9996; }
+
+#CSSMENU li#M3 { z-index: 9995; }
+
+#CSSMENU li#M4 { z-index: 9994; }
+
+#CSSMENU li#M5 { z-index: 9993; }
+
+#CSSMENU li#M6 { z-index: 9992; }
+
+#CSSMENU li#M7 { z-index: 9991; }
+
+.M1 #CSSMENU li#M1 a, .M2 #CSSMENU li#M2 a, .M3 #CSSMENU li#M3 a, .M4 #CSSMENU li#M4 a, .M5 #CSSMENU li#M5 a, .M6 #CSSMENU li#M6 a, .M7 #CSSMENU li#M7 a { color: rgb(0, 0, 0); }
+
+.M1 #CSSMENU li#M1 ul, .M2 #CSSMENU li#M2 ul, .M3 #CSSMENU li#M3 ul, .M4 #CSSMENU li#M4 ul, .M5 #CSSMENU li#M5 ul, .M6 #CSSMENU li#M6 ul, .M7 #CSSMENU li#M7 ul { display: block; top: -1000px; }
+
+#M1 li a { background-color: rgb(227, 227, 227); }
+
+#M2 li a { background-color: rgb(227, 227, 227); }
+
+#M3 li a { background-color: rgb(227, 227, 227); }
+
+#M4 li a { background-color: rgb(227, 227, 227); }
+
+#M5 li a { background-color: rgb(227, 227, 227); }
+
+#M6 li a { background-color: rgb(227, 227, 227); }
+
+#M7 li a { background-color: rgb(227, 227, 227); }
+
+#CSSMENU li.msieFix a { }
+
+#CSSMENU li#M7 ul { left: -2.3em !important; }
+
+#CSSMENU li#M2 ul { width: 30em !important; left: -3em !important; }
+
+.M1 #CSSMENU li#M1 ul li a:focus, .M1 #CSSMENU li#M1 ul li a:active, .M2 #CSSMENU li#M2 ul li a:focus, .M2 #CSSMENU li#M2 ul li a:active, .M3 #CSSMENU li#M3 ul li a:focus, .M3 #CSSMENU li#M3 ul li a:active, .M4 #CSSMENU li#M4 ul li a:focus, .M4 #CSSMENU li#M4 ul li a:active, .M5 #CSSMENU li#M5 ul li a:focus, .M5 #CSSMENU li#M5 ul li a:active, .M6 #CSSMENU li#M6 ul li a:focus, .M6 #CSSMENU li#M6 ul li a:active, .M7 #CSSMENU li#M7 ul li a:focus, .M7 #CSSMENU li#M7 ul li a:active { position: absolute !important; top: 1028px !important; }
+
+#CSSMENUCONTAINER { background-image: url("images/gray_center_tile.gif"); line-height: 25px; background-repeat: repeat-x; height: 25px; }
+
+#CSSMENUCONTAINER #CSSMENUCONTAINERRIGHT { z-index: 999992; float: right; }
+
+#CSSMENUCONTAINER #CSSMENUCONTAINERLEFT { z-index: 999991; float: left; }
+
+#TabPagina { text-align: right; margin: 0px; background-image: url("images/tabpagina_new.gif"); background-repeat: no-repeat; background-position: center center; padding: 0px; height: 15px; }
+
+#TabPagina div { float: left; font-family: Arial, Helvetica, sans-serif; font-size: 0.6em; color: rgb(102, 102, 102); width: 48%; }
+
+#TabPagina div { float: left; font-family: Arial, Helvetica, sans-serif; font-size: 0.6em; color: rgb(102, 102, 102); }
+
+#TabPaginaUser { text-align: left; padding-left: 5px; }
+
+#TabPaginaNome { text-align: right; padding-right: 5px; }
+
+#usertext { height: 16px; border: 1px solid rgb(0, 0, 255); float: right; }
+------MultipartBoundary--7gZWn4RNJMuUkKk5VKENPvdyWxkPr7NAC8QC5y4hBQ----
+Content-Type: image/gif
+Content-Transfer-Encoding: binary
+Content-Location: https://www3.uea.edu.br/lyceump/aonline/CSSMENU/images/gray_center_tile.gif
+
+GIF89a  ³  ŸŸŸÿÿÿçççÓÓÓ¸¸¸îîîÉÉÉ÷÷÷ÞÞÞ                     !ù  ÿ ,       #Éª½8ëÍ»G(ŽbažhZlë²Ó4Ì´aßD®|ïó ;
+------MultipartBoundary--7gZWn4RNJMuUkKk5VKENPvdyWxkPr7NAC8QC5y4hBQ----
+Content-Type: image/gif
+Content-Transfer-Encoding: binary
+Content-Location: https://www3.uea.edu.br/lyceump/aonline/CSSMENU/images/tabpagina_new.gif
+
+GIF89aî ÷  êêêÿÿÿ                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          !ù     ,    î  ÿ H° Áƒ*\È°¡Ã‡#JœH±¢Å‹3jÜÈ±£Ç CŠI²¤É“(Sª\É²¥Ë—0cÊœI³¦Í›8sêÜÉ³§ÏŸ@ƒ
+J´¨Ñ£H“*]Ê´©Ó§P£JJµªÕ«X³jÝÊµ«×¯`ÃŠK¶¬Ù³hÓª]Ë¶­Û·pãÊK·®]‰òêÝË·¯ß¿€L¸°áÃˆç½Ë¸±ã¯Š#KžL¹²eÅ3kÞìô²çÏ C‹ÞË¹´éÓ=G«^Íº5_Ô°cËnéº¶íÛ’gëÞÍ›#îßÀƒûíM¼¸ñ…Â“+·}¼¹sâË£Ký¼ºõÓÓ³k§|½»wÆÛÃ‹?ü½¼ù¶ãÓ«|¾t@ ;
+------MultipartBoundary--7gZWn4RNJMuUkKk5VKENPvdyWxkPr7NAC8QC5y4hBQ----
+Content-Type: image/gif
+Content-Transfer-Encoding: binary
+Content-Location: https://www3.uea.edu.br/lyceump/aonline/CSSMENU/images/gray_left_cap.gif
+
+GIF89a  ³  ŸŸŸÿÿÿæææÖÖÖÀÀÀ÷÷÷¸¸¸ÞÞÞîîî¬¬¬ÌÌÌÅÅÅ¦¦¦         !ù  ÿ ,       90ÈC§´÷\œwÐÛà‰áh–W1,»¶*‹ÌÃl×ˆ zÏ”ƒ‚2(*ŠÅ"PIÂ`\ª€ ;
+------MultipartBoundary--7gZWn4RNJMuUkKk5VKENPvdyWxkPr7NAC8QC5y4hBQ----
+Content-Type: image/gif
+Content-Transfer-Encoding: binary
+Content-Location: https://www3.uea.edu.br/lyceump/aonline/CSSMENU/images/gray_right_cap.gif
+
+GIF89a  Ä  fffÖÖÖ­­­•••÷÷÷½½½zzzæææ™™™„„„ÌÌÌrrrÿÿÿßßßµµµ¦¦¦ïïïÅÅÅ‹‹‹mmm                                    !ù  ÿ ,       \` 2d”$q4B
+5AìÊ£6J¤Ï‘B(8†‡¢`àR8–Þs0S–¯ˆà1Hj¹ÉÂƒ+} $RÄ@Ð®%ÇC’HÈ†¼:±Xä  ‚$y%! ;
+------MultipartBoundary--7gZWn4RNJMuUkKk5VKENPvdyWxkPr7NAC8QC5y4hBQ------
